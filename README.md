@@ -23,7 +23,7 @@ This repo was forked from [sekka1/aws-cli-docker](https://github.com/sekka1/aws-
 
 ## AWS CLI Version
 
-* [latest](https://github.com/aws/aws-cli/releases/tag/1.19.10)
+* [1.19.10](https://github.com/aws/aws-cli/releases/tag/1.19.10)
 
 ## Build
 
